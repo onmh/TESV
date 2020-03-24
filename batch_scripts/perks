@@ -1,0 +1,268 @@
+player.addperk 000BE127; Alchemy
+player.addperk 000C07CA
+player.addperk 000C07CB
+player.addperk 000C07CC
+player.addperk 000C07CD
+player.addperk 00058215
+player.addperk 00058216
+player.addperk 00058217
+player.addperk 00058218
+player.addperk 00105F2A
+player.addperk 00105F2B
+player.addperk 00105F2F
+player.addperk 00105F2E
+player.addperk 00105F2C
+player.addperk 0005821D
+
+player.addperk 000C44BA; Alteration
+player.addperk 000F2CA6
+player.addperk 000C44B7
+player.addperk 000C44B8
+player.addperk 000C44B9
+player.addperk 000153CD
+player.addperk 000D7999
+player.addperk 000D799A
+player.addperk 000D799B
+player.addperk 00053128
+player.addperk 00053129
+player.addperk 0005312A
+player.addperk 000581FC
+player.addperk 000581F7
+
+player.addperk 000BABED; Archery (Marksman)
+player.addperk 0007934A
+player.addperk 0007934B
+player.addperk 0007934D
+player.addperk 00079354
+player.addperk 00058F61
+player.addperk 00105F1C
+player.addperk 00105F1E
+player.addperk 00105F1F
+player.addperk 00103ADA
+player.addperk 00103ADB
+player.addperk 00058F62
+player.addperk 00051B12
+player.addperk 00058F63
+player.addperk 00105F19
+player.addperk 00058F64
+
+player.addperk 000BCCAE; Block
+player.addperk 00079355
+player.addperk 00079356
+player.addperk 00079357
+player.addperk 00079358
+player.addperk 000D8C33
+player.addperk 00058F68
+player.addperk 00058F67
+player.addperk 00058F69
+player.addperk 0005F594
+player.addperk 00058F66
+player.addperk 00058F6A
+player.addperk 00106253
+
+player.addperk 000F2CA7; Conjuration
+player.addperk 000153CE
+player.addperk 000C44BD
+player.addperk 000C44BC
+player.addperk 000C44BB
+player.addperk 000C44BE
+player.addperk 000640B3
+player.addperk 00105F30
+player.addperk 00105F31
+player.addperk 000D799E
+player.addperk 000D799C
+player.addperk 000581DD
+player.addperk 000CB419
+player.addperk 000CB41A
+player.addperk 000581DE
+player.addperk 000D5F1C
+
+player.addperk 000C44C2; Destruction
+player.addperk 000F2CA8
+player.addperk 000C44BF
+player.addperk 000C44C0
+player.addperk 000C44C1
+player.addperk 000153CF
+player.addperk 000153D2
+player.addperk 00105F32
+player.addperk 000581EA
+player.addperk 0010FCF9
+player.addperk 000581E7
+player.addperk 0010FCF8
+player.addperk 00058200
+player.addperk 0010FCFA
+player.addperk 000F3933
+player.addperk 000F3F0E
+player.addperk 000F392E
+
+player.addperk 000BEE97; Enchanting
+player.addperk 000C367C
+player.addperk 000C367D
+player.addperk 000C367E
+player.addperk 000C367F
+player.addperk 00058F7C
+player.addperk 00058F80
+player.addperk 00058F81
+player.addperk 00108A44
+player.addperk 00058F7E
+player.addperk 00058F82
+player.addperk 00058F7D
+player.addperk 00058F7F
+
+player.addperk 000BCD2A; Heavy Armor
+player.addperk 0007935E
+player.addperk 00079361
+player.addperk 00079362
+player.addperk 00079374
+player.addperk 00058F6F
+player.addperk 00058F6C
+player.addperk 00107832
+player.addperk 00058F6D
+player.addperk 00058F6E
+player.addperk 000BCD2B
+player.addperk 00105F33
+
+player.addperk 000153D0; Illusion
+player.addperk 000C44C3
+player.addperk 000C44C4
+player.addperk 000C44C5
+player.addperk 000C44C6
+player.addperk 000F2CA9
+player.addperk 000581E1
+player.addperk 000581E2
+player.addperk 00059B77
+player.addperk 00059B78
+player.addperk 000581FD
+player.addperk 000C44B5
+player.addperk 00059B76
+
+player.addperk 000BE123; Light Armor
+player.addperk 00079376
+player.addperk 00079389
+player.addperk 00079391
+player.addperk 00079392
+player.addperk 00051B1B
+player.addperk 00051B1C
+player.addperk 00105F22
+player.addperk 00051B17
+player.addperk 00107831
+
+player.addperk 000F392A; Lockpicking
+player.addperk 000BE125
+player.addperk 00106259
+player.addperk 00107830
+player.addperk 000C3680
+player.addperk 0005820A
+player.addperk 00105F26
+player.addperk 000C3681
+player.addperk 00058208
+player.addperk 00058209
+player.addperk 000C3682
+
+player.addperk 000BABE4; One-Handed
+player.addperk 00079343
+player.addperk 00079342
+player.addperk 00079344
+player.addperk 00079345
+player.addperk 00052D50
+player.addperk 0003FFFA
+player.addperk 000C3678
+player.addperk 000C3679
+player.addperk 0005F592
+player.addperk 000C1E92
+player.addperk 000C1E93
+player.addperk 0005F56F
+player.addperk 000C1E90
+player.addperk 000C1E91
+player.addperk 00106256
+player.addperk 00106257
+player.addperk 0003AF81
+player.addperk 000CB406
+player.addperk 00106258
+player.addperk 0003AFA6
+
+player.addperk 000BE124; Pickpocket
+player.addperk 00018E6A
+player.addperk 00018E6B
+player.addperk 00018E6C
+player.addperk 00018E6D
+player.addperk 00058202
+player.addperk 00105F28
+player.addperk 00058204
+player.addperk 000D79A0
+player.addperk 00096590
+player.addperk 00058201
+player.addperk 00058205
+
+player.addperk 000C44CA; Restoration
+player.addperk 000F2CAA
+player.addperk 000C44C7
+player.addperk 000C44C8
+player.addperk 000C44C9
+player.addperk 000153D1
+player.addperk 000581F8
+player.addperk 000581F9
+player.addperk 000581F4
+player.addperk 000581F5
+player.addperk 000A3F64
+player.addperk 000581E4
+player.addperk 00068BCC
+
+player.addperk 000CB40D; Smithing
+player.addperk 0005218E
+player.addperk 000CB40F
+player.addperk 000CB414
+player.addperk 000CB411
+player.addperk 000CB40E
+player.addperk 000CB410
+player.addperk 000CB412
+player.addperk 000CB413
+player.addperk 00052190
+
+player.addperk 000BE128; Speechcraft
+player.addperk 000C07CE
+player.addperk 000C07CF
+player.addperk 000C07D0
+player.addperk 000C07D1
+player.addperk 00058F72
+player.addperk 00058F75
+player.addperk 001090A2
+player.addperk 00058F7A
+player.addperk 00058F7B
+player.addperk 00105F29
+player.addperk 00058F79
+player.addperk 001090A5
+
+player.addperk 000BE126; Sneak
+player.addperk 000C07C6
+player.addperk 000C07C7
+player.addperk 000C07C8
+player.addperk 000C07C9
+player.addperk 00058210
+player.addperk 00058213
+player.addperk 001036F0
+player.addperk 00058211
+player.addperk 0005820C
+player.addperk 00105F23
+player.addperk 00105F24
+player.addperk 00058214
+
+player.addperk 000BABE8; Two-handed
+player.addperk 00079346
+player.addperk 00079347
+player.addperk 00079348
+player.addperk 00079349
+player.addperk 00052D51
+player.addperk 000C5C05
+player.addperk 000C5C06
+player.addperk 000C5C07
+player.addperk 0003AF83
+player.addperk 000C1E94
+player.addperk 000C1E95
+player.addperk 0003AF84
+player.addperk 000C1E96
+player.addperk 000C1E97
+player.addperk 00052D52
+player.addperk 000CB407
+player.addperk 0003AF9E
+player.addperk 0003AFA7

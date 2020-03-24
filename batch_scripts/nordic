@@ -1,0 +1,16 @@
+; Dragonborn add-on gear (replace xx's with your load order)
+player.additem xx02623B 999999; Nordic arrows
+player.additem xx01cd97 1; Nordic carved armor
+player.additem xx01cd96 1; Nordic carved boots
+player.additem xx01cd98 1; Nordic carved gauntlets
+player.additem xx01cd99 1; Nordic carved helmet
+player.additem xx026236 1; Nordic shield
+player.additem xx026232 1; Nordic bow
+player.additem xx01cdae 1; Nordic dagger
+player.additem xx01cdb1 1; Nordic sword
+player.additem xx01cdb2 1; Nordic war axe
+player.additem xx01cdb0 1; Nordic mace
+player.additem xx01cdb3 1; Nordic warhammer
+player.additem xx01cdaf 1; Nordic greatsword
+player.additem xx01cdad 1; Nordic battleaxe
+player.additem 0005ada0 500; Quicksilver ingot for smithing

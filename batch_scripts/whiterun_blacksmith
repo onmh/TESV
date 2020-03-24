@@ -1,0 +1,4 @@
+; Adrianne got killed by vampires or dragon cultists attacking Whiterun again ?
+; bring her back to yourself then resurrect her
+prid 0001A67C
+moveto player

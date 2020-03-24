@@ -1,0 +1,106 @@
+; Base game ingredients
+player.additem 00106e1b 10
+player.additem 0006bc02 10
+player.additem 000a9195 10
+player.additem 000a9191 10
+player.additem 0004da20 10
+player.additem 0004da25 10
+player.additem 000727de 10
+player.additem 000e4f0c 10
+player.additem 00077e1c 10
+player.additem 00034cdd 10
+player.additem 0003ad61 10
+player.additem 0006abcb 10
+player.additem 00052695 10
+player.additem 0003ad56 10
+player.additem 00023d77 10
+player.additem 000b2183 10
+player.additem 000b701a 10
+player.additem 00106e19 10
+player.additem 0003ad5b 10
+player.additem 000516c8 10
+player.additem 000889a2 10
+player.additem 000f11c0 10
+player.additem 0003ad63 10
+player.additem 00034d31 10
+player.additem 0006bc07 10
+player.additem 0003ad5d 10
+player.additem 0003ad5e 10
+player.additem 0004da00 10
+player.additem 00034d32 10
+player.additem 0003ad5f 10
+player.additem 00034d22 10
+player.additem 0007e8c1 10
+player.additem 0003ad64 10
+player.additem 0003ad73 10
+player.additem 0007ee01 10
+player.additem 00083e64 10
+player.additem 0006b689 10
+player.additem 0003ad66 10
+player.additem 00057f91 10
+player.additem 000e7ebc 10
+player.additem 000e7ed0 10
+player.additem 00106e18 10
+player.additem 000b08c5 10
+player.additem 001016b3 10
+player.additem 000b18cd 10
+player.additem 0003ad6a 10
+player.additem 0004da23 10
+player.additem 0006ac4a 10
+player.additem 0005076e 10
+player.additem 0006bc0a 10
+player.additem 00045c28 10
+player.additem 000727df 10
+player.additem 000D8E3F 10
+player.additem 000ec870 10
+player.additem 0006bc00 10
+player.additem 0004da24 10
+player.additem 0002f44c 10
+player.additem 00059b86 10
+player.additem 0007edf5 10
+player.additem 000bb956 10
+player.additem 000854fe 10
+player.additem 00023d6f 10
+player.additem 0006bc10 10
+player.additem 00077e1e 10
+player.additem 00077e1d 10
+player.additem 00106e1a 10
+player.additem 0006bc04 10
+player.additem 00034cdf 10
+player.additem 0006f950 10
+player.additem 00106e1c 10
+player.additem 0003ad6f 10
+player.additem 0007e8c5 10
+player.additem 0003ad70 10
+player.additem 0006bc0b 10
+player.additem 00085500 10
+player.additem 0001b3bd 10
+player.additem 0009151b 10
+player.additem 00063b5f 10
+player.additem 0007e8b7 10
+player.additem 0003ad71 10
+player.additem 000134aa 10
+player.additem 0004da73 10
+player.additem 0003ad72 10
+player.additem 0003f7f8 10
+player.additem 0003ad76 10
+player.additem 0003ad60 10
+player.additem 0004b0ba 10
+player.additem 0004da22 10
+player.additem 0006bc0e 10
+player.additem 0007e8c8 10 ;oeuf de fauvette
+player.additem 000727e0 10 ;aile de papillon
+player.additem 0003ad60 10 ;sels fins du néant
+player.additem 0004bc95 10 ;racine de jarrin
+; End of base game ingredients
+;
+; Dawnguard ingredients (replace xx's with your load order)
+player.additem xx0059ba 10
+player.additem xx0183b7 10
+player.additem xx00b097 10
+player.additem xx0185fb 10
+player.additem xx002a78 10
+;
+; Heathfire ingredients (replace xx's with your load order)
+player.additem xx00F1CC 10
+player.additem xx003545 10

@@ -1,0 +1,5 @@
+; Items for the quest "A return to your roots"
+; Sinderion's field journal
+player.additem 000E4D6F 1
+; Crimson Nirnroot for the quest A return to your roots
+player.additem 000b701a 30

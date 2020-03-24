@@ -1,0 +1,34 @@
+# Hearthfire construction items
+; replace xx with your load order
+player.additem 0003ad52 20 ; bear pelt
+player.additem 0003ad53 20 ; cave bear pelt
+player.additem 04003043 400 ; clay (HF)
+player.additem 0003ad90 20 ; deer hide (elk)
+player.additem 04005A69 150 ; glass (HF)
+player.additem 0003ad8e 50 ; goat hide
+player.additem 0400303F 50 ; goat horns (HF)
+player.additem 0005ad9e 10 ; gold ingot
+player.additem 0002e4ff 10 ; grand soul gem
+player.additem 04003011 200 ; hinges (HF)
+player.additem 0003ad68 10 ; horker tusk
+player.additem 0003ad75 20 ; ice wolf pelt
+player.additem 04003035 150 ; iron fittings (HF)
+player.additem 0005ace4 400 ; iron ingot
+player.additem 0006bc0a 20 ; large antler
+player.additem 000800e4 150 ; leather strips
+player.additem 04003012 100 ; lock (HF)
+player.additem 0003ad6c 10 ; mammoth tusk
+player.additem 0006bc00 10 ; mudcrab chitin
+player.additem 0400300F 2000 ; nails (HF)
+player.additem 0400306C 400 ; quarried stone (HF)
+player.additem 0005ada0 10 ; quicksilver ingot
+player.additem 0005ad9f 10 ; refined moonstone
+player.additem 0003ad6d 20 ; sabre cat pelt
+player.additem 0003ad6e 20 ; sabre cat snow pelt
+player.additem 0006bc04 80 ; sabre cat teeth
+player.additem 0400300E 400 ; sawn logs (HF)
+player.additem 0003ad70 10 ; slaughterfish scales
+player.additem 0006bc0b 10 ; small antlers
+player.additem 0005ace5 180 ; steel ingot
+player.additem 04005A68 400 ; straw (HF)
+player.additem 0003ad74 20 ; wolf pelt

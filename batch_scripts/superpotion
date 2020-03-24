@@ -1,0 +1,6 @@
+; Ingredients to make a super valuable potion
+; requires Hearthfire add-on for salmon roe
+; replace xx with your load order
+player.additem xx003545 10 ; Salmon Roe (HF)
+player.additem 00106e18 10 ; Histcarp
+player.additem 0003ad5e 10 ; Fire Salts

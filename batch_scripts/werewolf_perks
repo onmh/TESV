@@ -1,0 +1,12 @@
+; Dragonborn add-on werewolf perk tree (replace xx's with your load order)
+;player.addperk 020059A4; Bestial Strength 1
+;player.addperk 02007A3F; Bestial Strength 2
+;player.addperk 03011CFA; Bestial Strength 3
+player.addperk 03011CFB; Bestial Strength 4
+player.addperk 020059A5; Animal Vigor
+player.addperk 020059A7; Gorging
+player.addperk 020059A6; Savage Feeding
+player.addperk 020059AA; Totem of Ice Brothers
+player.addperk 020059AB; Totem of the Moon
+player.addperk 020059A8; Totem of Terror
+;player.addperk 020059A9; Totem of the Predator

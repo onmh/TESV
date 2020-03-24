@@ -1,0 +1,9 @@
+; Set overkill KillMoveRandom and DecapitationChance in-game variables
+; defaults are:
+; KillMoveRandom 50%
+; DecapitationChance 40%
+set KillMoveRandom to 100
+set DecapitationChance to 80
+; reset to default values
+;set KillMoveRandom to 50
+;set DecapitationChance to 40

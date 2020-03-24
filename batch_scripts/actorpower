@@ -1,0 +1,40 @@
+setlevel 81
+setav health 999999; here starts the lines you might want to check to lower the actor's power
+setav magicka 999999
+setav stamina 999999
+modav attackdamagemult 600 ; !P! a damage value of 52 becomes 30651 ,this probably is what should be lowered to weaken the selected actor.
+modav weaponspeedmult 1.5 ; !P! the actor now strikes X + 1.5 times faster with two-handed weapons and right-handed weapons (daggers, swords...), X stands for the previous weaponspeedmult value.
+modav leftweaponspeedmult 1.5 ; !P! same as before but with left-handed weapons
+modav destructionpowermod 300; !p! modav destructionpowermod -300 to restore original value, same for every modav command to reset them.
+modav conjurationpowermod 600; !P!
+modav restorationpowermod 600; !P!
+modav illusionpowermod 600; !P!
+modav alterationpowermod 600; !P!
+setav destructionmod 95
+setav conjurationmod 95
+setav restorationmod 95
+setav illusionmod 95
+setav alterationmod 95
+;modav unarmeddamage 600 !P! Actor might only fight unarmed. remove ";" to activate.  
+modav reflectdamage 90; !P!
+setav critchance 90
+modav speedmult 60; !P!
+;here ends the exaggerated commands
+setav alchemy 100
+setav alteration 100
+setav marksman 100
+setav block 100
+setav conjuration 100
+setav destruction 100
+setav enchanting 100
+setav heavyarmor 100
+setav illusion 100
+setav lightarmor 100
+setav lockpicking 100
+setav onehanded 100
+setav pickpocket 100
+setav restoration 100
+setav smithing 100
+setav sneak 100
+setav speechcraft 100
+setav twohanded 100

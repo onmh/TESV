@@ -1,0 +1,128 @@
+; Created potions are 25% more powerful. 
+;Necklace of Peerless Alchemy	0010df4a
+player.additem 0010df4a 1; Necklace of Peerless Alchemy
+; Bows do 40% more damage.
+;Ring of Peerless Archery	00100e28
+player.additem 00100e28 1
+;Circlet of Peerless Archery	000fc02f
+player.additem 000fc02f 1
+;Dragonscale Gauntlets of Peerless Archery	000d79e7
+player.additem 000d7a0b 1
+;Dragonscale Helmet of Peerless Archery	000d7a0b
+player.additem 000d79e7 1
+; Prices are 25% better.
+;Necklace of Peerless Haggling	0010df50
+player.additem 0010df50 1
+; Block 40% more damage with your shield.
+;Dragonscale Shield of Peerless Blocking	000d7a12
+player.additem 000d7a12 1
+;Ring of Peerless Blocking	00100df8
+player.additem 00100df8 1
+;Necklace of Peerless Blocking	0010df20
+player.additem 0010df20 1
+; Carrying capacity increased by 50 points.
+;Dragonscale Boots of the Mammoth	000d79a9
+player.additem 000d79a9 1
+; Health regenerates 50% faster.
+;Necklace of Revival	0010df5a
+player.additem 0010df5a 1
+;Ring of Revival	00100e54
+player.additem 00100e54 1
+;Dragonscale Armor of Revival	000fe2e2
+player.additem 000fe2e2 1
+; Increases your health by 70 points.
+;Necklace of Peerless Health	000fc03c
+player.additem 000fc03c 1
+;Ring of Peerless Health	000fcf02
+player.additem 000fcf02 1
+;Dragonscale Armor of Peerless Health	000d79bc
+player.additem 000d79bc 1
+; Increases Heavy Armor skill by 25 points.
+;Necklace of the Peerless Knight	0010df2c
+player.additem 0010df2c 1
+;Ring of the Peerless Knight	00100e10
+player.additem 00100e10 1
+; Increases Light Armor skill by 25 points.
+;Necklace of the Peerless Squire	0010df32
+player.additem 0010df32 1
+;Ring of the Peerless Squire	00100e1d
+player.additem 00100e1d 1
+;Dragonscale Armor of the Peerless Knight	000d79bf
+player.additem 000d79bf 1
+; Lockpicking is 40% easier.
+;Necklace of Peerless Lockpicking	0010df3e
+player.additem 0010df3e 1
+;Ring of Peerless Lockpicking	00100e22
+player.additem 00100e22 1
+;Dragonscale Gauntlets of Peerless Lockpicking	0010df73
+player.additem 0010df73 1
+; Increases your Magicka by 70 points.
+;Circlet of Peerless Magicka	000fc029
+player.additem 000fc029 1
+;Necklace of Peerless Magicka	0010df56
+player.additem 0010df56 1
+;Ring of Peerless Magicka	000ff7d7
+player.additem 000ff7d7 1
+; Magicka regenerates 150% faster.
+;Master Robes	0010d680
+player.additem 0010d680 1
+; One-handed attacks do 40% more damage.
+;Necklace of Peerless Wielding	0010df67
+player.additem 0010df67 1
+;Ring of Peerless Wielding	00100e2e
+player.additem 00100e2e 1
+;Dragonscale Gauntlets of Peerless Wielding	000d79ea
+player.additem 000d79ea 1
+; Pickpocket success is 40% better.
+;Necklace of Peerless Deft Hands	0010df38
+player.additem 0010df38 1
+;Ring of Peerless Deft Hands	00100e7b
+player.additem 00100e7b 1
+; Weapons and armor can be improved 25% better.
+;Necklace of Peerless Smithing	0010df26
+player.additem 0010df26 1
+;Ring of Peerless Smithing	00100e40
+player.additem 00100e40 1
+;Dragonscale Gauntlets of Peerless Smithing	000d79f0
+player.additem 000d79f0 1
+; Sneaking is 40% better.
+;Necklace of Peerless Sneaking	0010df44
+player.additem 0010df44 1
+;Ring of Peerless Sneaking	00100e45
+player.additem 00100e45 1
+;Dragonscale Boots of Peerless Sneaking	000fda06
+player.additem 000fda06 1
+; Increases your stamina by 70 points.
+;Necklace of Peerless Stamina	000fc05a
+player.additem 000fc05a 1
+;Ring of Peerless Stamina	000fcefc
+player.additem 000fcefc 1
+;Dragonscale Boots of Peerless Stamina	0010df7f
+player.additem 0010df7f 1
+; Stamina regenerates 50% faster.
+;Necklace of Renewal	0010df5e
+player.additem 0010df5e 1
+;Ring of Renewal	00100e58
+player.additem 00100e58 1
+;Dragonscale Armor of Renewal	000fe2e5
+player.additem 000fe2e5 1
+; Two-handed attacks do 40% more damage.
+;Necklace of Peerless Sure Grip	0010df1a
+player.additem 0010df1a 1
+;Ring of Peerless Sure Grip	00100e84
+player.additem 00100e84 1
+;Dragonscale Gauntlets of Peerless Sure Grip	000d79f3
+player.additem 000d79f3 1
+; Increases Disease Resistance by 100%.
+;Necklace of Disease Immunity	00100e65
+player.additem 00100e65 1
+; Increases Poison Resistance by 100%.
+;Necklace of Poison Immunity	00100e5f
+player.additem 00100e5f 1
+; Can swim underwater without drowning.
+;Circlet of Waterbreathing	000fc036
+player.additem 000fc036 1
+;Necklace of Waterbreathing	000fc067
+player.additem 000fc067 1
+;Dragonscale Helmet of Waterbreathing	000d7a0f
+player.additem 000d7a0f 1

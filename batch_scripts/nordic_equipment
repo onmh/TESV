@@ -1,0 +1,21 @@
+; Nordic weapons and armor, require Dragonborn
+; http://en.uesp.net/wiki/Dragonborn:Nordic
+; replace xx with your load order
+; weapons
+player additem xx01cdae 2 ; Nordic Dagger
+player additem xx01cdb1 2 ; Nordic Sword
+player additem xx01cdb2 2 ; Nordic War Axe
+player additem xx01cdb0 2 ; Nordic Mace
+player additem xx01cdaf 1 ; Nordic Greatsword
+player additem xx01cdad 1 ; Nordic Battleaxe
+player additem xx01cdb3 1 ; Nordic Warhammer
+player additem xx026232 1 ; Nordic Bow
+player additem xx02623b 999999 ; Nordic Arrow
+; armor
+player additem xx01cd97 1 ; Nordic Carved Armor
+player additem xx01cd96 1 ; Nordic Carved Boots
+player additem xx01cd98 1 ; Nordic Carved Gauntlets
+player additem xx01cd99 1 ; Nordic Carved Helmet
+player additem xx026236 1 ; Nordic Shield
+; for tempering weapons and armor
+player additem 0005ada0 17 ; Quicksilver Ingot

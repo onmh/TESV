@@ -1,0 +1,13 @@
+; Dragonborn alchemy ingredients
+; replace xx with your load order
+player.additem xx01cd74 10 ; Ash Creep Cluster
+player.additem xx01cd71 10 ; Ash Hopper Jelly
+player.additem xx016e26 10 ; Ashen Grass Pod
+player.additem xx01cd6f 10 ; Boar Tusk
+player.additem xx01cd6e 10 ; Burnt Spriggan Wood
+player.additem xx01ff75 10 ; Emperor Parasol Moss
+player.additem xx03cd8e 10 ; Felsaad Tern Feathers
+player.additem xx01cd72 10 ; Netch Jelly
+player.additem xx017e97 10 ; Scathecraw
+player.additem xx01cd6d 10 ; Spawn Ash
+player.additem xx017008 10 ; Trama Root

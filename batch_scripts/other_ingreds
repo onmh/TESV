@@ -1,0 +1,16 @@
+# Special items (not added by ingreds)
+; Dawnguard ingredients (replace xx's with your load order)
+player.additem xx0059ba 10
+player.additem xx0183b7 10
+player.additem xx00b097 10
+player.additem xx0185fb 10
+player.additem xx002a78 10
+;
+; Heathfire ingredients (replace xx's with your load order)
+player.additem xx00F1CC 10
+player.additem xx003545 10
+
+; Dawnguard add-on, replace xx with your load order
+player.additem xx002a78 10 ; Yellow mountain flower
+; Hearthfire add-on, replace xx with your load order
+player.additem xx00F1CC 10 ; Hawk's egg

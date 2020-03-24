@@ -1,0 +1,37 @@
+; Children's gifts, girls (includes doll and dresses), without daggers
+; Hearthfire items
+; replace xx with your load order
+player.additem 04004D91 1 ; wooden sword (HF)
+player.additem 0400c1de 1 ; child's doll (HF)
+;player.additem 0400d81e 1 ; child's blue dress (HF)
+;player.additem 0400d81f 1 ; child's green dress (HF)
+;player.additem 0400d820 1 ; child's grey dress (HF)
+;player.additem 0400d821 1 ; child's red dress (HF)
+player.additem 0400d822 1 ; child's yellow dress (HF)
+; books
+player.additem 0001ACDF 1 ; A Children's Anuad
+player.additem 000EF53E 1 ; Kolb & the Dragon
+player.additem 0001AD13 1 ; The Red Book of Riddles
+player.additem 0001B274 1 ; The Yellow Book of Riddles
+; food
+player.additem 00064b43 1 ; Apple Pie
+player.additem 0010394d 1 ; Honey
+player.additem 00064b38 1 ; Honey Nut Treat
+player.additem 00064b30 1 ; Boiled Creme Treat
+player.additem 0400353 1 ; Apple Dumpling (HF)
+player.additem 0400353B 1 ; Snowberry Crostata (HF)
+player.additem 00064b3d 1 ; Sweet Roll
+player.additem 000cd614 1 ; Homecooked Meal
+player.additem 00064b39 1 ; Long Taffy Treat
+player.additem 000f4320 1 ; Elsweyr Fondue
+player.additem 0400353A 1 ; Jazbay Crostata (HF)
+player.additem 04003539 1 ; Juniper Berry Crostata (HF)
+; daggers
+;player.additem 000139ae 1 ; Ebony Dagger
+; Dragonborn items
+; replace xx with your load order
+;player.additem 0301cdae 1 ; Nordic Dagger (DB)
+;player.additem 0301cdb5 1 ; Stalhrim Dagger (DB)
+; Dawnguard items
+; replace xx with your load order
+;player.additem 02014fcb 1 ; Dragonbone Dagger (DG)

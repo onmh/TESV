@@ -1,0 +1,7 @@
+getav frostresist
+getav fireresist
+getav electricresist
+getav magicresist
+getav poisonresist
+getav diseaseresist
+getav damageresist; Armor Rating

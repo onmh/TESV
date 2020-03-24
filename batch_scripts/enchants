@@ -1,0 +1,72 @@
+; Listed by Lych
+; Standard Weapon Enchantments
+player.additem 0001DFFF 1; Absorb Health
+player.additem 0001E002 1; Absorb Magicka
+player.additem 0001E005 1; Absorb Stamina
+player.additem 0001E008 1; Banish
+player.additem 0001E022 1; Fear
+player.additem 0001E033 1; Fire Damage
+player.additem 0001E05D 1; Frost Damage
+player.additem 0001E082 1; Magicka Damage
+player.additem 0001E085 1; Paralyze
+player.additem 0001E088 1; Shock Damage
+player.additem 0001E0D6 1; Soul Trap
+player.additem 0001E0D9 1; Stamina Damage
+player.additem 0001E0E7 1; Turn Undead
+
+; Unique Weapon Enchantments
+player.additem 000F82FC 1; Absorb Magicka
+player.additem 000F71DD 1; Absorb Stamina
+player.additem 000AE087 1; Briarheart Geis
+player.additem 00040002 1; Fiery Soul Trap
+player.additem 000AE086 1; Huntsman's Prowess
+player.additem 001019D4 1; Notched Pickaxe
+player.additem 0003B0BE 1; Silent Moons Enchant
+
+; Standard Apparel Enchantments
+player.additem 000D7AB0 1; Fortify Alchemy
+player.additem 000D7A65 1; Fortify Alteration
+player.additem 0010D66F 1; Fortify Alteration & Magicka Regen
+player.additem 000D7AC5 1; Fortify Archery
+player.additem 0010DF50 1; Fortify Barter
+player.additem 0010DF20 1; Fortify Block
+player.additem 000D7A8A 1; Fortify Carryweight
+player.additem 0010CF35 1; Fortify Conjuration
+player.additem 0010D675 1; Fortify Conjuration & Magicka Regen
+player.additem 0010CF38 1; Fortify Destruction
+player.additem 0010D678 1; Fortify Destruction & Magicka Regen
+player.additem 000FE300 1; Fortify Healing rate
+player.additem 000D7A9A 1; Fortify Health
+player.additem 000D7A9D 1; Fortify Heavy Armor
+player.additem 0010CF3B 1; Fortify Illusion
+player.additem 0010D67C 1; Fortify Illusion & Magicka Regen
+player.additem 00100E1D 1; Fortify Light Armor
+player.additem 0010DF3E 1; Fortify Lockpicking
+player.additem 000D7A08 1; Fortify Magicka
+player.additem 000FE303 1; Fortify Magicka Regen
+player.additem 000D7AC8 1; Fortify One-Handed
+player.additem 0010DF70 1; Fortify Pickpocket
+player.additem 0010CF3E 1; Fortify Restoration
+player.additem 0010D684 1; Fortify Restoration & Magicka Regen
+player.additem 000D7ACE 1; Fortify Smithing
+player.additem 000FDA06 1; Fortify Sneak
+player.additem 0010DF79 1; Fortify Stamina
+player.additem 000FE2FD 1; Fortify Stamina Regen
+player.additem 000D7AD1 1; Fortify Two-Handed
+player.additem 0010A06A 1; Fortify Unarmed
+player.additem 000D7A8B 1; Muffle
+player.additem 00100E65 1; Resist Disease
+player.additem 000D7A8E 1; Resist Fire
+player.additem 000D7A91 1; Resist Frost
+player.additem 0010DFA3 1; Resist Magic
+player.additem 00100E5F 1; Resist Poison
+player.additem 000D7A94 1; Resist Shock
+player.additem 000D7AED 1; Waterbreathing
+
+; Unique Apparel Enchantments
+player.additem 000C5809 1; Blessing of Mara
+player.additem 0010EB65 1; Resist Magic (Stronger)
+player.additem 00108546 1; Shadowsight
+player.additem 00108543 1; Shadowstrength
+player.additem 00108545 1; Shadowstrike
+player.additem 00108544 1; Shadowthrive
