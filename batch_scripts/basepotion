@@ -1,0 +1,5 @@
+; Ingredients to make a super valuable potion
+; with only base game items
+player.additem 0003ad64 10 ; Giant's Toe
+player.additem 0006bc02 10 ; Bear Claws
+player.additem 00057f91 10 ; Hanging Moss
