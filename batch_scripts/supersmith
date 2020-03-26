@@ -1,0 +1,4 @@
+; Increase your smithing XP rapidly
+; Highest XP/ore : Gold Diamond Necklace
+player.additem 0006851f 100; Flawless Diamond
+player.additem 0005ad9e 100; Gold Ingot
