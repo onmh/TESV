@@ -1,15 +1,15 @@
 ; Soul gems
-player additem 0002e4e2 10 ; Petty (none)
-player additem 0002e4e2 10 ; Petty (Petty)
-player additem 0002e4e2 10 ; Lesser (none)
-player additem 0002e4e2 10 ; Lesser (Lesser)
-player additem 0002e4e2 10 ; Common (none)
-player additem 0002e4f3 10 ; Common (Common)
-player additem 0002e4f3 10 ; Greater (none)
-player additem 0002e4f3 10 ; Greater (Greater)
-player additem 0002e4f3 10 ; Grand (none)
-player additem 0002e4f3 10 ; Grand (Grand)
-player additem 0002e500 10 ; Black (none)
-player additem 0002e504 10 ; Black (Grand)
-player additem 00063b27 1 ; Azura's Star
-player additem 00063b29 1 ; Black Star
+player.additem 0002e4e2 10 ; Petty (none)
+player.additem 0002e4e3 10 ; Petty (Petty)
+player.additem 0002e4e4 10 ; Lesser (none)
+player.additem 0002e4e5 10 ; Lesser (Lesser)
+player.additem 0002e4e5 10 ; Common (none)
+player.additem 0002e4f3 10 ; Common (Common)
+player.additem 0002e4f4 10 ; Greater (none)
+player.additem 0002e4fb 10 ; Greater (Greater)
+player.additem 0002e4fc 10 ; Grand (none)
+player.additem 0002e4ff 10 ; Grand (Grand)
+player.additem 0002e500 10 ; Black (none)
+player.additem 0002e504 10 ; Black (Grand)
+player.additem 00063b27 1 ; Azura's Star
+player.additem 00063b29 1 ; Black Star

@@ -4,41 +4,41 @@
 ; http://en.uesp.net/wiki/Skyrim:Dragon_Items
 ; replace xx with your load order
 ; Daedric Armor
-player additem 0001396a 1 ; Daedric Boots
-player additem 0001396b 1 ; Daedric Armor
-player additem 0001396c 1 ; Daedric Gauntlets
-player additem 0001396d 1 ; Daedric Helmet
-player additem 0001396e 1 ; Daedric Shield
+player.additem 0001396a 1 ; Daedric Boots
+player.additem 0001396b 1 ; Daedric Armor
+player.additem 0001396c 1 ; Daedric Gauntlets
+player.additem 0001396d 1 ; Daedric Helmet
+player.additem 0001396e 1 ; Daedric Shield
 ; Daedric Weapons
-player additem 000139b3 1 ; Daedric War Axe
-player additem 000139b4 1 ; Daedric Battleaxe
-player additem 000139b5 1 ; Daedric Bow
-player additem 000139b6 1 ; Daedric Dagger
-player additem 000139b7 1 ; Daedric Greatsword
-player additem 000139b8 1 ; Daedric Mace
-player additem 000139ba 1 ; Daedric Warhammer
+player.additem 000139b3 1 ; Daedric War Axe
+player.additem 000139b4 1 ; Daedric Battleaxe
+player.additem 000139b5 1 ; Daedric Bow
+player.additem 000139b6 1 ; Daedric Dagger
+player.additem 000139b7 1 ; Daedric Greatsword
+player.additem 000139b8 1 ; Daedric Mace
+player.additem 000139ba 1 ; Daedric Warhammer
 ; Dragonscale Armor
-player additem 0001393d 1 ; Dragonscale Boots
-player additem 0001393e 1 ; Dragonscale Armor
-player additem 0001393f 1 ; Dragonscale Gauntlets
-player additem 00013940 1 ; Dragonscale Helmet
-player additem 00013941 1 ; Dragonscale Shield
+player.additem 0001393d 1 ; Dragonscale Boots
+player.additem 0001393e 1 ; Dragonscale Armor
+player.additem 0001393f 1 ; Dragonscale Gauntlets
+player.additem 00013940 1 ; Dragonscale Helmet
+player.additem 00013941 1 ; Dragonscale Shield
 ; Dragonplate Armor
-player additem 00013965 1 ; Dragonplate Boots
-player additem 00013966 1 ; Dragonplate Armor
-player additem 00013967 1 ; Dragonplate Gauntlets
-player additem 00013969 1 ; Dragonplate Helmet
-player additem 00013968 1 ; Dragonplate Shield
+player.additem 00013965 1 ; Dragonplate Boots
+player.additem 00013966 1 ; Dragonplate Armor
+player.additem 00013967 1 ; Dragonplate Gauntlets
+player.additem 00013969 1 ; Dragonplate Helmet
+player.additem 00013968 1 ; Dragonplate Shield
 ; Dragonbone Weapons
-player additem xx014fcb 1 ; Dragonbone Dagger
-player additem xx014fce 1 ; Dragonbone Sword
-player additem xx014fcf 1 ; Dragonbone War Axe
-player additem xx014fcd 1 ; Dragonbone Mace
-player additem xx014fcc 1 ; Dragonbone Greatsword
-player additem xx014fc3 1 ; Dragonbone Battleaxe
-player additem xx014fd0 1 ; Dragonbone Warhammer
-player additem xx0176f1 1 ; Dragonbone Bow
+player.additem xx014fcb 1 ; Dragonbone Dagger
+player.additem xx014fce 1 ; Dragonbone Sword
+player.additem xx014fcf 1 ; Dragonbone War Axe
+player.additem xx014fcd 1 ; Dragonbone Mace
+player.additem xx014fcc 1 ; Dragonbone Greatsword
+player.additem xx014fc3 1 ; Dragonbone Battleaxe
+player.additem xx014fd0 1 ; Dragonbone Warhammer
+player.additem xx0176f1 1 ; Dragonbone Bow
 ; for tempering
-player additem 0005ad9d 13 ; Ebony Ingot
-player additem 0003ada4 13 ; Dragon Bone
-player additem 0003ada3 5 ; Dragon Scales
+player.additem 0005ad9d 13 ; Ebony Ingot
+player.additem 0003ada4 13 ; Dragon Bone
+player.additem 0003ada3 5 ; Dragon Scales

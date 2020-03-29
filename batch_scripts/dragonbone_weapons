@@ -1,14 +1,14 @@
 ; Dragonbone weapons, require Dawnguard
 ; http://en.uesp.net/wiki/Skyrim:Dragon_Items#Dragonbone_WeaponsDG
 ; replace xx with your load order
-player additem xx014fcb 2 ; Dragonbone Dagger
-player additem xx014fce 2 ; Dragonbone Sword
-player additem xx014fcf 2 ; Dragonbone War Axe
-player additem xx014fcd 2 ; Dragonbone Mace
-player additem xx014fcc 1 ; Dragonbone Greatsword
-player additem xx014fc3 1 ; Dragonbone Battleaxe
-player additem xx014fd0 1 ; Dragonbone Warhammer
-player additem xx0176f1 1 ; Dragonbone Bow
-player additem xx0176f4 999999 ; Dragonbone Arrow
+player.additem xx014fcb 2 ; Dragonbone Dagger
+player.additem xx014fce 2 ; Dragonbone Sword
+player.additem xx014fcf 2 ; Dragonbone War Axe
+player.additem xx014fcd 2 ; Dragonbone Mace
+player.additem xx014fcc 1 ; Dragonbone Greatsword
+player.additem xx014fc3 1 ; Dragonbone Battleaxe
+player.additem xx014fd0 1 ; Dragonbone Warhammer
+player.additem xx0176f1 1 ; Dragonbone Bow
+player.additem xx0176f4 999999 ; Dragonbone Arrow
 ; for tempering
-player additem 0003ada4 12 ; Dragon Bone
+player.additem 0003ada4 12 ; Dragon Bone
