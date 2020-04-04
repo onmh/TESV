@@ -1,4 +1,4 @@
-# From http://elderscrolls.wikia.com/wiki/Forum:CC:Console_Command_Batch_Lists_(Skyrim)
+; From http://elderscrolls.wikia.com/wiki/Forum:CC:Console_Command_Batch_Lists_(Skyrim)
 player.incpcs alchemy
 player.incpcs alchemy
 player.incpcs alchemy
@@ -1788,4 +1788,4 @@ player.incpcs twohanded
 player.incpcs twohanded
 player.incpcs twohanded
 player.incpcs twohanded
-#Created by Darkon Phire
+; Created by Darkon Phire
